@@ -2,7 +2,7 @@
 
 Programs to test my mad skills :D
 
-This is [example](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html "Readme Markup Link")
+This is [link to Readme Doc](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html "Readme Markup Link")
 
 Readme Syntax
 

@@ -1,6 +1,6 @@
 # Challenges
 
-Programs to test my mad skills :D
+Programs to test my mad skills(Java) :D
 
 This is [link to Readme Doc](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html "Readme Markup Link")
 
